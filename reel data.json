@@ -1811,11 +1811,16 @@
     "name": "ZOE LIMITED",
     "amount_raised": "£7,407,352",
     "link": "https://www.crowdcube.eu/companies/zoe",
-    "email": "NA",
-    "address": "Address not found",
-    "sector": "Sector not found",
-    "categorie": "Category not found",
-    "presentation": "Presentation not found"
+    "results": [
+      {
+        "numbers": 1,
+        "keywords": [
+          "Collaborative"
+        ]
+      }
+    ],
+    "linksVisitedCount": 1,
+    "linkElementHref": "https://zoe.com/"
   },
   {
     "name": "COUNTER RESTAURANTS LTD (Trading as Bancone)",
@@ -1852,11 +1857,21 @@
     "name": "THE WELLNESS FOOD GROUP LIMITED",
     "amount_raised": "£581,740",
     "link": "https://www.crowdcube.eu/companies/the-wellness-food-group-limited",
-    "email": "NA",
-    "address": "Address not found",
-    "sector": "Sector not found",
-    "categorie": "Category not found",
-    "presentation": "Presentation not found"
+    "results": [
+      {
+        "numbers": 1,
+        "keywords": [
+          "Agile"
+        ]
+      },
+      {
+        "numbers": 1,
+        "keywords": [
+          "MVP"
+        ]
+      }
+    ],"linksVisitedCount": 21,
+    "linkElementHref": "https://www.wellnessfoodsltd.co.uk/"
   },
   {
     "name": "CLOUDWORKZ LIMITED",
